@@ -1,0 +1,1 @@
+An assigment given to me by the university. My job was to implement functions, listed in graph.h library. Done in graph.c file.
